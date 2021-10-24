@@ -15,12 +15,9 @@
     <br>
     <li>
       <p>2° and 3° Extract for Desktop or other directory and when you want to run, write this code in your terminal:</p>
-
       ```
       php clean.php
       ```
-      
-    
     </li>
   </ul>
 
