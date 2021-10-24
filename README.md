@@ -6,7 +6,7 @@
   
 <hr>
 
-## This PHP script optimizes the speed of your RAM memory
+## This PHP script optimizes the speed of your RAM memory, **as if it were magic 😐
 
 <main>
   <h2>How to use:</h2>
