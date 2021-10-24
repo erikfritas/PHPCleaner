@@ -13,15 +13,13 @@
   <ul>
     <li>1° <a href="https://github.com/erikfritas/PHPCleaner/archive/refs/heads/main.zip" target="_blank">Download</a> this project</li>
     <br>
-    <li>
-      <p>2° and 3° Extract for Desktop or other directory and when you want to run, write this code in your terminal:</p>
-      ```
-      php clean.php
-      ```
-    </li>
+    <li>2° and 3° Extract for Desktop or other directory and when you want to run, write this code in your terminal:</li>
   </ul>
-
 </main>
+
+```
+php clean.php
+```
 
 <hr>
 
