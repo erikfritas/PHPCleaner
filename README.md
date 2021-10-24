@@ -13,7 +13,8 @@
   <ul>
     <li>1° <a href="https://github.com/erikfritas/PHPCleaner/archive/refs/heads/main.zip" target="_blank">Download</a> this project</li>
     <br>
-    <li>2° and 3° Extract for Desktop or other directory and when you want to run, write this code in your terminal:</li>
+    <li>2° Extract to your desktop or to another directory of your choice</li>
+    <li>3° And if you want to run, write this code on your terminal:</li>
   </ul>
 </main>
 
