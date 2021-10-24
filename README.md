@@ -12,7 +12,7 @@
   <h2>How to use:</h2>
   <p><a href="" target="_blank">Download</a> this project</p>
   <br>
-  <p>Extract for Desktop or other directory and run this with:</p>
+  <p>Extract for Desktop or other directory and when you want to run, write this code in your terminal:</p>
   
   ```bash
   php clean.php
