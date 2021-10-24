@@ -57,6 +57,16 @@ try{
     alert([
         "* " => LIME, "Drop Cache " => WHITE, "successful!\n" => BLUE
     ]);
+
+    shell_exec("sudo swapoff -a");
+    alert([
+        "* " => LIME, "Turn off SWAP " => WHITE, "successful!\n" => BLUE
+    ]);
+
+    shell_exec("sudo swapon -a");
+    alert([
+        "* " => LIME, "Turn on SWAP " => WHITE, "successful!\n" => BLUE
+    ]);
     
     shell_exec("sudo sync");
     alert([
