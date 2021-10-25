@@ -28,6 +28,18 @@ php clean.php
 
 <hr>
 
+<section>
+  <h3>How it works?</h3>
+  <p>This script do some steps, the steps are:</p>
+  <ul>
+    <li>Sync</li>
+    <li>Drop Cache</li>
+    <li>Turn off SWAP</li>
+    <li>Turn on SWAP</li>
+    <li>ReSync</li>
+  </ul>
+</section>
+
 <footer>
   <h2>By erikfritas</h2>
 </footer>
