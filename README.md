@@ -40,6 +40,8 @@ php clean.php
   </ul>
 </section>
 
+<hr>
+
 <footer>
   <h2>By erikfritas</h2>
 </footer>
