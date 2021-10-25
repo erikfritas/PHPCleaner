@@ -52,6 +52,18 @@ try{
     alert([
         "* " => LIME, "Sync " => WHITE, "successful!\n" => BLUE
     ]);
+
+    echo "\nBefore: \n";
+    echo str_repeat(color("-=", RED), 40)."\n";
+    echo shell_exec("sudo free -m")."\n";
+    echo str_repeat(color("-=", RED), 40)."\n";
+
+    if (strtoupper(readline("You really want clean? Y/N\n--> ")) != 'Y'){
+        echo "Ok bye!\n\n";
+        die();
+    }
+
+    echo "\n";
     
     shell_exec("sudo sysctl -w vm.drop_caches=3");
     alert([
@@ -76,9 +88,9 @@ try{
     echo "Success!\n\n";
 
     echo "Status of your ".color("RAM", YELLOW).":\n";
-    echo str_repeat(color("-=", RED), 40)."\n";
+    echo str_repeat(color("-=", GREEN), 40)."\n";
     echo shell_exec("sudo free -m")."\n";
-    echo str_repeat(color("-=", RED), 40)."\n";
+    echo str_repeat(color("-=", GREEN), 40)."\n";
     exit;
 } catch (Exception $e){
     echo "\n<\\Error/> Message: ".$e->getMessage()."\n";
