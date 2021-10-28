@@ -43,5 +43,5 @@ php clean.php
 <hr>
 
 <footer>
-  <h2>By erikfritas</h2>
+  <h2>Maded by erikfritas and used for erikfritas</h2>
 </footer>
