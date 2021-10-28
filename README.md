@@ -29,6 +29,15 @@ php clean.php
 <hr>
 
 <section>
+  <h4>Platforms:</h4>
+  <ul>
+    <li>Linux - Ubuntu/Debian</li>  
+  </ul>
+</section>
+
+<hr>
+
+<section>
   <h3>How it works?</h3>
   <p>This script do some steps, the steps are:</p>
   <ul>
