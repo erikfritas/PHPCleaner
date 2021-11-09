@@ -32,6 +32,7 @@ php clean.php
   <h4>Platforms:</h4>
   <ul>
     <li>Linux - Ubuntu/Debian</li>  
+    <li>Windows - Coming soon...</li>
   </ul>
 </section>
 
