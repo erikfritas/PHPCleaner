@@ -48,10 +48,12 @@ php clean.php
     <li>Turn on SWAP</li>
     <li>ReSync</li>
   </ul>
+  <p>A Tip: Run it only when you turn on the pc, as the script may not work correctly if you use it after having used your pc a lot, especially if it is a simpler pc</p>
 </section>
 
 <hr>
 
 <footer>
   <h2>Maded by erikfritas and used for erikfritas</h2>
+  <p>12/06/2021 (more than one month later): and yes I still use it...</p>
 </footer>
